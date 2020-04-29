@@ -21,15 +21,15 @@ baddfc3a39bdc01107aa49650ab1d3e7  usr/local/bigbluebutton/core/lib/recordandplay
 6994b276e061d7eaff42796761503328  usr/local/bigbluebutton/core/lib/recordandplayback/generators/events.rb
 e334d90f4a33f30248434da48525fa49  usr/local/bigbluebutton/core/lib/recordandplayback/generators/presentation.rb
 ff9f04a6f0a82e61d89c350b98564a67  usr/local/bigbluebutton/core/lib/recordandplayback/generators/video.rb
-bceca256ce5b184197ed57663a91c3e8  usr/local/bigbluebutton/core/lib/recordandplayback.rb
+9527410dd118aaeb607745616730e151  usr/local/bigbluebutton/core/lib/recordandplayback.rb
 c90548172b25b51e410a4d56940cdbe1  usr/local/bigbluebutton/core/scripts/README
-1d187f974a2db45167b52c4962b29f89  usr/local/bigbluebutton/core/scripts/archive/archive.rb
+6025d4ac79d986f3170bcf2abdd34125  usr/local/bigbluebutton/core/scripts/archive/archive.rb
 2c61ef73c31de2750f47b483778fbc44  usr/local/bigbluebutton/core/scripts/bbb-0.9-beta-recording-update
 c9646830f394493f496ac334fc53b43d  usr/local/bigbluebutton/core/scripts/bbb-0.9-recording-size
 2310d83aca29c9b1e1f9b92683e07bf1  usr/local/bigbluebutton/core/scripts/bbb-1.1-meeting-tag
 3621bf3bbd7ac8f5a88847596e3860d3  usr/local/bigbluebutton/core/scripts/bigbluebutton.yml
 86b04575c369557ebcea5945afd7ed84  usr/local/bigbluebutton/core/scripts/cleanup.rb
-af7af3dadca435d44ce4c767b2c29ee8  usr/local/bigbluebutton/core/scripts/events/events.rb
+960afbff5eac6cc63627ef2b60e9223c  usr/local/bigbluebutton/core/scripts/events/events.rb
 f3658a2c84782e6aaae7d48784170f43  usr/local/bigbluebutton/core/scripts/post_archive/post_archive.rb.example
 cc7951782269d8e48875663af6a77f69  usr/local/bigbluebutton/core/scripts/post_process/post_process.rb.example
 e3dcec8164ab8c8cf9b3021c9f5ebb77  usr/local/bigbluebutton/core/scripts/post_publish/post_publish.rb.example
@@ -45,4 +45,4 @@ fbe487149c302a9e1898689572fcf0b3  usr/local/bigbluebutton/core/scripts/rap-sanit
 7f3d5a64675a284726db075e54c8ad6f  usr/local/bigbluebutton/core/scripts/sanity/sanity.rb
 6eb3de705a6a2f37beee74cb542106f5  usr/local/bigbluebutton/core/scripts/utils/captions.rb
 c8ba295784c49e5fd3cd2533efe8e826  usr/local/bigbluebutton/core/scripts/utils/gen_webvtt
-d3aef9c6e7a46787ce1af15fe5cd0e1b  usr/share/doc/bbb-record-core/changelog.gz
+2ee9202188e42a219e5a9902bf3035a7  usr/share/doc/bbb-record-core/changelog.gz
